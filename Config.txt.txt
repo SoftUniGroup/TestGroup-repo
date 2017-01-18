@@ -1,3 +1,6 @@
+name = Lyubomir
+size = 12345
+email = lyubomir.maksimov@gmail.com
 name = Player2
 size = 54321
 email = Player2@gmail.com
