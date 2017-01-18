@@ -1,4 +1,0 @@
-name = Player 2
-size = 54321
-email = Player2@gmail.com
-
